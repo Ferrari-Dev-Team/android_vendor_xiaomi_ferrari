@@ -43,14 +43,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ferrari/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
-    vendor/xiaomi/ferrari/proprietary/lib/hw/audio.primary.msm8916.so:system/lib/hw/audio.primary.msm8916.so \
     vendor/xiaomi/ferrari/proprietary/lib/soundfx/libdirac.so:system/lib/soundfx/libdirac.so \
     vendor/xiaomi/ferrari/proprietary/lib/libDiracAPI_SHARED.so:system/lib/libDiracAPI_SHARED.so \
     vendor/xiaomi/ferrari/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/xiaomi/ferrari/proprietary/vendor/etc/diracmobile.config:system/vendor/etc/diracmobile.config \
-    vendor/xiaomi/ferrari/proprietary/lib64/hw/audio.primary.msm8916.so:system/lib64/hw/audio.primary.msm8916.so \
-    vendor/xiaomi/ferrari/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
-    vendor/xiaomi/ferrari/proprietary/lib64/libtinyalsa.so:system/lib64/libtinyalsa.so \
     vendor/xiaomi/ferrari/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/xiaomi/ferrari/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libbtnv.so:system/vendor/lib64/libbtnv.so \
