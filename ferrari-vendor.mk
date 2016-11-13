@@ -395,9 +395,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/librpmb.so:system/vendor/lib64/librpmb.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libssd.so:system/vendor/lib64/libssd.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
-    vendor/xiaomi/ferrari/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
-    vendor/xiaomi/ferrari/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/xiaomi/ferrari/proprietary/bin/sensor_select.sh:system/bin/sensor_select.sh \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/hw/flp.default.so:system/vendor/lib64/hw/flp.default.so \
